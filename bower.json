@@ -1,0 +1,18 @@
+{
+  "name": "flask_app",
+  "authors": [
+    "goyder"
+  ],
+  "description": "template for a flask app",
+	"directory": "./project/static/bower_components",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
